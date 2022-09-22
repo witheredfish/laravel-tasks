@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'JMShakerTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED0918BAB50F4F149EB8F7B225FD8773 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_75C321E535B544789B5F52E459AAF218 }}
           package: .
